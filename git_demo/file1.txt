@@ -1,0 +1,2 @@
+first file
+添加在file1.txt中的内容
